@@ -8,7 +8,7 @@
 
 📫 **How to reach me:**  
 - **Email:** [tanvirshaikatx@gmail.com]  
-- **LinkedIn:** [[Your LinkedIn Profile](http://www.linkedin.com/in/tanvir-shaikat)]  
+- **LinkedIn:** [http://www.linkedin.com/in/tanvir-shaikat] 
 
 ⚡ **Fun fact:** I’m on a mission to become a millionaire by 30! 💰  
 
