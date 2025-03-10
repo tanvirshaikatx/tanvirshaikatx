@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**tanvirshaikatx/tanvirshaikatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a **Machine Learning Data Analyst**  
+🌱 I’m constantly learning **AI, Machine Learning, and Deep Learning**  
+👯 I’m looking to collaborate on **AI-based projects and research**  
+🤔 I’m interested in **AI startups and business opportunities**  
+💬 Ask me about **Machine Learning, Deep Learning, and NLP**  
 
-Here are some ideas to get you started:
+📫 **How to reach me:**  
+- **Email:** [tanvirshaikatx@gmail.com]  
+- **LinkedIn:** [[Your LinkedIn Profile](http://www.linkedin.com/in/tanvir-shaikat)]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Fun fact:** I’m on a mission to become a millionaire by 30! 💰  
+
+
