@@ -6,7 +6,7 @@ I’m a **Machine Learning Engineer & AI Researcher** passionate about building 
 
 ## 👨‍💻 About Me  
 🔭 **Currently:** Machine Learning Data Analyst.  
-🎓 **Education:** B.Sc. in Computer Science & Engineering, Bangladesh University (GPA: 3.84/4.00)  
+🎓 **Education:** B.Sc. in Computer Science & Engineering, Bangladesh University (GPA: 3.86/4.00)  
 🌱 **Learning:** LLM Fine-Tuning, Generative AI, Cloud AI Deployment  
 💡 **Career Goal:** Becoming a top-tier **Machine Learning Engineer & AI Entrepreneur**  
 💰 **Mission:** Achieve financial freedom & build an AI-based business before 30  
